@@ -1,0 +1,501 @@
+City,State,County,Sleep,Income,Bachelors+,Composite
+Birmingham,AL,Jefferson,41.5,48808.1666666666,33.4,24.975
+Hoover,AL,Shelby,32.9,104628.166666666,42.9,24.975
+Huntsville,AL,Madison,37.8,63580.2222222222,42.8,25.025
+Mobile,AL,Mobile,39.1,51464.9666666666,23.2,25.0
+Montgomery,AL,Montgomery,38.0,56275.0476190476,33.4,25.025
+Tuscaloosa,AL,Tuscaloosa,39.0,61115.8888888888,30.7,25.0
+Anchorage,AK,Anchorage Municipality,31.3,89349.2,36.1,25.0
+Avondale,AZ,Maricopa,38.1,55891.25,32.7,25.0
+Chandler,AZ,Maricopa,35.2,89289.1428571428,32.7,25.0
+Gilbert,AZ,Maricopa,34.8,101024.571428571,32.7,25.0
+Glendale,AZ,Maricopa,37.3,68602.5,32.7,25.0
+Mesa,AZ,Maricopa,35.5,64056.5106382978,32.7,25.0
+Peoria,AZ,Maricopa,34.5,63725.2352941176,32.7,25.0
+Phoenix,AZ,Maricopa,37.3,57559.192,32.7,25.0
+Scottsdale,AZ,Maricopa,31.4,86029.4761904761,32.7,25.0
+Surprise,AZ,Maricopa,34.2,67853.3333333333,32.7,25.0
+Tempe,AZ,Maricopa,35.0,64657.5,32.7,25.0
+Tucson,AZ,Santa Cruz,34.2,56039.2564102564,20.4,25.0
+Yuma,AZ,Yuma,31.3,53900.8125,15.0,24.975
+Fayetteville,AR,Washington,34.2,45973.4,33.3,25.0
+Fort Smith,AR,Sebastian,35.1,43954.6,21.3,24.975
+Jonesboro,AR,Craighead,32.4,41214.5,26.2,25.0
+Little Rock,AR,Pulaski,36.5,62356.0454545454,34.3,25.0
+Springdale,AR,Benton,36.7,62270.6666666666,33.4,24.975
+Alameda,CA,San Mateo,33.7,89726.375,51.0,25.025
+Alhambra,CA,Los Angeles,37.9,75486.2222222222,32.5,25.0
+Anaheim,CA,Orange,34.0,72411.0,40.6,25.0
+Antioch,CA,Contra Costa,35.9,60612.5,42.4,25.025
+Apple Valley,CA,San Bernardino,37.7,62031.4,21.0,25.0
+Bakersfield,CA,Kern,37.2,59350.8684210526,16.4,25.0
+Baldwin Park,CA,Los Angeles,37.7,61803.6666666666,32.5,25.0
+Bellflower,CA,Los Angeles,38.2,72411.4444444444,32.5,25.0
+Berkeley,CA,Contra Costa,32.2,103222.1,42.4,25.025
+Buena Park,CA,Orange,34.2,75758.2,40.6,25.0
+Burbank,CA,Los Angeles,34.1,73593.4,32.5,25.0
+Carlsbad,CA,San Diego,30.1,100168.714285714,38.8,25.0
+Carson,CA,Los Angeles,38.4,63984.0,32.5,25.0
+Chico,CA,Butte,32.7,79356.4,27.2,25.025
+Chino,CA,Orange,38.2,89300.9166666666,40.6,25.0
+Chino Hills,CA,Orange,36.9,59836.0,40.6,25.0
+Chula Vista,CA,San Diego,34.4,77633.4117647058,38.8,25.0
+Citrus Heights,CA,Sacramento,35.3,55089.75,30.9,25.025
+Clovis,CA,Fresno,33.5,68761.0,21.2,25.0
+Compton,CA,Los Angeles,41.5,52853.5,32.5,25.0
+Concord,CA,Contra Costa,33.3,88914.7692307692,42.4,25.025
+Corona,CA,Orange,38.4,86253.7142857142,40.6,25.0
+Costa Mesa,CA,Orange,32.2,109889.733333333,40.6,25.0
+Daly City,CA,San Francisco,34.7,101587.571428571,58.1,25.025
+Downey,CA,Los Angeles,35.6,83078.1875,32.5,25.0
+El Cajon,CA,San Diego,35.3,77735.25,38.8,25.0
+Elk Grove,CA,Sacramento,37.0,89429.4,30.9,25.025
+El Monte,CA,Los Angeles,39.5,58231.6363636363,32.5,25.0
+Escondido,CA,San Diego,34.5,73626.0714285714,38.8,25.0
+Fairfield,CA,Solano,37.6,73944.8888888888,26.9,25.0
+Folsom,CA,Sacramento,33.9,94830.1666666666,30.9,25.025
+Fontana,CA,Orange,39.5,58646.3846153846,40.6,25.0
+Fremont,CA,Alameda,34.6,112430.470588235,47.4,25.025
+Fresno,CA,Fresno,36.5,57730.1489361702,21.2,25.0
+Fullerton,CA,Orange,32.5,79418.5454545454,40.6,25.0
+Garden Grove,CA,Orange,35.7,68785.6666666666,40.6,25.0
+Glendale,CA,Los Angeles,34.6,78447.125,32.5,25.0
+Hawthorne,CA,Los Angeles,39.9,65463.0,32.5,25.0
+Hayward,CA,Alameda,36.7,74699.0,47.4,25.025
+Hemet,CA,Orange,37.7,54605.3333333333,40.6,25.0
+Hesperia,CA,Orange,39.3,55908.75,40.6,25.0
+Huntington Beach,CA,Orange,30.7,99406.0555555555,40.6,25.0
+Indio,CA,Riverside,38.3,55105.8,22.3,25.025
+Inglewood,CA,Los Angeles,41.0,54139.4545454545,32.5,25.0
+Irvine,CA,Orange,31.5,94079.8571428571,40.6,25.0
+Lake Forest,CA,Orange,31.1,93905.0,40.6,25.0
+Lakewood,CA,Los Angeles,35.8,103878.0,32.5,25.0
+Lancaster,CA,Los Angeles,38.8,52545.7857142857,32.5,25.0
+Livermore,CA,Alameda,32.7,107116.111111111,47.4,25.025
+Long Beach,CA,Los Angeles,37.4,73900.7272727272,32.5,25.0
+Los Angeles,CA,Los Angeles,36.8,61724.5570175438,32.5,25.0
+Lynwood,CA,Los Angeles,39.7,41161.4,32.5,25.0
+Manteca,CA,San Joaquin,35.1,59583.5,18.8,25.0
+Menifee,CA,Orange,36.7,80746.5,40.6,25.0
+Merced,CA,Merced,37.6,45038.8181818181,13.8,25.025
+Milpitas,CA,Alameda,34.2,119131.6,47.4,25.025
+Mission Viejo,CA,Orange,29.6,128766.0,40.6,25.0
+Modesto,CA,Stanislaus,36.1,58324.9047619047,17.1,25.0
+Moreno Valley,CA,Orange,41.1,60341.6428571428,40.6,25.0
+Mountain View,CA,San Mateo,30.2,112980.666666666,51.0,25.025
+Murrieta,CA,Orange,37.3,75272.8571428571,40.6,25.0
+Napa,CA,Napa,32.7,96176.909090909,35.7,25.0
+Newport Beach,CA,Orange,27.5,94533.0,40.6,25.0
+Norwalk,CA,Los Angeles,36.9,66791.5555555555,32.5,25.0
+Oakland,CA,Contra Costa,37.3,74826.1403508771,42.4,25.025
+Oceanside,CA,San Diego,33.4,64538.0769230769,38.8,25.0
+Ontario,CA,Orange,39.1,60365.6923076923,40.6,25.0
+Orange,CA,Orange,32.0,91739.1666666666,40.6,25.0
+Oxnard,CA,Ventura,37.0,75367.0714285714,33.8,25.025
+Palmdale,CA,Los Angeles,38.6,58094.1111111111,32.5,25.0
+Pasadena,CA,Los Angeles,34.5,82274.25,32.5,25.0
+Perris,CA,Orange,41.6,58194.5,40.6,25.0
+Pleasanton,CA,Alameda,31.5,126645.75,47.4,25.025
+Pomona,CA,Orange,37.9,61822.1818181818,40.6,25.0
+Rancho Cucamonga,CA,Orange,36.9,72495.2,40.6,25.0
+Redding,CA,Shasta,31.6,57592.9,22.2,25.0
+Redlands,CA,Orange,35.4,88558.125,40.6,25.0
+Redondo Beach,CA,Los Angeles,32.5,116038.857142857,32.5,25.0
+Redwood City,CA,San Mateo,31.7,106888.333333333,51.0,25.025
+Rialto,CA,Orange,40.2,63936.2857142857,40.6,25.0
+Richmond,CA,Contra Costa,37.2,64711.5555555555,42.4,25.025
+Riverside,CA,Orange,38.7,67173.4838709677,40.6,25.0
+Roseville,CA,Sacramento,31.1,95488.6363636363,30.9,25.025
+Sacramento,CA,Sacramento,37.8,64649.9545454545,30.9,25.025
+Salinas,CA,Santa Clara,35.2,73160.4166666666,52.4,25.0
+San Bernardino,CA,Orange,41.3,45236.625,40.6,25.0
+San Buenaventura Ventura,CA,Ventura,33.3,,33.8,25.025
+San Diego,CA,San Diego,33.3,85061.7184466019,38.8,25.0
+San Francisco,CA,San Francisco,30.4,100856.922077922,58.1,25.025
+San Jose,CA,Santa Clara,32.9,100633.876712328,52.4,25.0
+San Leandro,CA,Alameda,36.2,83304.0,47.4,25.025
+San Marcos,CA,San Diego,33.3,64426.25,38.8,25.0
+San Mateo,CA,San Mateo,31.5,130092.3,51.0,25.025
+San Ramon,CA,Alameda,31.9,117885.4,47.4,25.025
+Santa Ana,CA,Orange,35.8,73419.9130434782,40.6,25.0
+Santa Barbara,CA,Santa Barbara,27.2,91477.5,34.2,25.025
+Santa Clara,CA,Santa Cruz,31.5,123682.09090909,40.8,25.0
+Santa Clarita,CA,Los Angeles,34.4,92791.0,32.5,25.0
+Santa Maria,CA,San Luis Obispo,31.6,68236.5555555555,35.4,25.0
+Santa Monica,CA,Los Angeles,31.7,110739.9,32.5,25.0
+Santa Rosa,CA,Sonoma,33.6,73909.2222222222,35.5,24.975
+Simi Valley,CA,Ventura,33.8,112996.181818181,33.8,25.025
+South Gate,CA,Los Angeles,37.8,56222.375,32.5,25.0
+Stockton,CA,San Joaquin,37.6,57924.5,18.8,25.0
+Sunnyvale,CA,San Mateo,31.1,121553.5,51.0,25.025
+Temecula,CA,San Diego,37.1,90186.25,38.8,25.0
+Thousand Oaks,CA,Ventura,31.8,92375.4,33.8,25.025
+Torrance,CA,Los Angeles,34.4,94377.8947368421,32.5,25.0
+Tracy,CA,San Joaquin,35.6,84638.875,18.8,25.0
+Turlock,CA,Stanislaus,35.1,51614.7142857142,17.1,25.0
+Tustin,CA,Orange,33.0,104679.6,40.6,25.0
+Union City,CA,Alameda,36.5,126666.0,47.4,25.025
+Upland,CA,Orange,36.6,85846.8333333333,40.6,25.0
+Vacaville,CA,Solano,36.2,97866.0,26.9,25.0
+Vallejo,CA,Solano,38.8,72252.9285714285,26.9,25.0
+Victorville,CA,Orange,40.7,56459.7142857142,40.6,25.0
+Visalia,CA,Tulare,32.8,54387.6923076923,14.6,25.0
+Vista,CA,San Diego,34.5,73599.125,38.8,25.0
+West Covina,CA,Los Angeles,36.1,87499.3,32.5,25.0
+Westminster,CA,Orange,35.9,70310.3333333333,40.6,25.0
+Whittier,CA,Los Angeles,34.3,76287.9375,32.5,25.0
+Arvada,CO,Broomfield,26.8,74636.6666666666,55.7,25.0
+Aurora,CO,Denver,31.8,66509.5,49.4,24.975
+Boulder,CO,Boulder,24.2,93236.5454545454,62.1,25.0
+Centennial,CO,Denver,26.7,104362.666666666,49.4,24.975
+Colorado Springs,CO,El Paso,30.3,72100.8863636363,38.5,25.0
+Denver,CO,Denver,28.4,68615.3768115942,49.4,24.975
+Fort Collins,CO,Larimer,26.6,68589.0,47.3,25.0
+Greeley,CO,Weld,29.1,54588.8,27.5,24.975
+Lakewood,CO,Jefferson,27.1,71131.8,45.2,24.975
+Longmont,CO,Broomfield,26.0,77983.25,55.7,25.0
+Loveland,CO,Broomfield,26.7,68759.25,55.7,25.0
+Pueblo,CO,Pueblo,34.2,45816.1333333333,21.8,25.0
+Thornton,CO,Broomfield,31.5,83133.0,55.7,25.0
+Westminster,CO,Broomfield,29.1,79896.0,55.7,25.0
+Bridgeport,CT,Fairfield,40.2,57065.7692307692,47.9,25.0
+Danbury,CT,Fairfield,36.0,88550.2857142857,47.9,25.0
+Hartford,CT,Hartford,40.9,42389.7333333333,38.1,25.0
+New Britain,CT,Hartford,36.8,41869.25,38.1,25.0
+New Haven,CT,New Haven,40.5,58414.6,35.0,25.0
+Norwalk,CT,Fairfield,35.0,102360.375,47.9,25.0
+Stamford,CT,Westchester,34.6,103863.181818181,,25.0
+Waterbury,CT,New Haven,40.3,48141.6,35.0,25.0
+Wilmington,DE,New Castle,43.1,71683.52,36.2,25.0
+Washington,DC,District Of Columbia,36.4,91404.492063492,58.5,24.975
+Boca Raton,FL,Broward,34.5,87731.0,32.4,24.975
+Boynton Beach,FL,Palm Beach,39.9,72778.1538461538,36.7,25.0
+Cape Coral,FL,Lee,33.3,59442.6153846153,28.2,25.0
+Clearwater,FL,Pinellas,38.2,61774.2,31.7,25.0
+Coral Springs,FL,Broward,36.6,87020.1818181818,32.4,24.975
+Davie,FL,Broward,35.3,101066.0,32.4,24.975
+Deerfield Beach,FL,Broward,37.0,54316.0,32.4,24.975
+Deltona,FL,Seminole,38.1,49445.6666666666,39.6,25.0
+Fort Lauderdale,FL,Broward,37.4,61297.4705882352,32.4,24.975
+Gainesville,FL,Alachua,37.0,45673.0714285714,43.3,25.0
+Hialeah,FL,Broward,33.9,42962.5294117647,32.4,24.975
+Hollywood,FL,Broward,36.9,58189.1538461538,32.4,24.975
+Jacksonville,FL,Duval,38.2,55344.406779661,30.0,24.975
+Lakeland,FL,Polk,35.0,56450.7619047619,20.2,25.0
+Largo,FL,Pinellas,37.7,60038.6,31.7,25.0
+Lauderhill,FL,Broward,44.3,46151.2,32.4,24.975
+Melbourne,FL,Brevard,35.3,58459.0,30.2,25.025
+Miami,FL,Miami-Dade,34.8,61431.5833333333,29.8,25.0
+Miami Beach,FL,Miami-Dade,31.2,67722.6666666666,29.8,25.0
+Miami Gardens,FL,Broward,41.2,55673.4,32.4,24.975
+Miramar,FL,Broward,39.9,82926.75,32.4,24.975
+Orlando,FL,Orange,37.6,58527.9347826086,34.6,25.0
+Palm Bay,FL,Brevard,37.4,55990.375,30.2,25.025
+Palm Coast,FL,Flagler,34.5,49154.5,25.1,25.0
+Pembroke Pines,FL,Broward,35.8,67944.875,32.4,24.975
+Plantation,FL,Broward,35.4,73231.875,32.4,24.975
+Pompano Beach,FL,Broward,38.1,60104.2,32.4,24.975
+Port St. Lucie,FL,St. Lucie,37.0,,21.6,25.0
+St. Petersburg,FL,Pinellas,39.8,,31.7,25.0
+Sunrise,FL,Broward,38.1,67469.0,32.4,24.975
+Tallahassee,FL,Leon,34.0,64958.3333333333,46.2,24.975
+Tampa,FL,Hillsborough,35.6,57624.7564102564,33.5,24.975
+West Palm Beach,FL,Palm Beach,40.6,56874.9642857142,36.7,25.0
+Albany,GA,Dougherty,47.1,46413.5384615384,21.4,25.0
+Athens,GA,Clarke,37.3,57656.6,44.0,25.0
+Atlanta,GA,Fulton,38.4,76480.6612903225,52.9,24.975
+Augusta,GA,Richmond,42.5,47681.1333333333,21.4,25.025
+Columbus,GA,Muscogee,41.4,47256.8888888888,25.8,25.025
+Johns Creek,GA,Gwinnett,33.3,132371.0,36.9,24.975
+Macon,GA,Bibb,43.6,41917.625,25.4,25.0
+Roswell,GA,Fulton,32.7,99487.75,52.9,24.975
+Sandy Springs,GA,Fulton,33.4,59618.0,52.9,24.975
+Savannah,GA,Chatham,41.3,50793.04,33.6,25.0
+Warner Robins,GA,Houston,39.1,54812.5,28.3,24.975
+Honolulu,HI,Kalawao,46.9,84613.9512195122,24.2,25.0
+Boise City,ID,Ada,27.8,,38.5,25.0
+Meridian,ID,Ada,28.1,74342.0,38.5,25.0
+Nampa,ID,Canyon,32.9,51590.5,18.7,25.025
+Arlington Heights,IL,Dupage,29.3,114682.75,49.4,25.0
+Aurora,IL,Dupage,35.0,62934.9285714285,49.4,25.0
+Bloomington,IL,Mclean,33.4,55623.4285714285,44.8,25.0
+Bolingbrook,IL,Dupage,34.6,70249.2,49.4,25.0
+Champaign,IL,Champaign,30.4,62963.1818181818,45.0,25.0
+Chicago,IL,Cook,36.0,63975.9731543624,38.8,25.0
+Cicero,IL,Cook,36.3,46939.1428571428,38.8,25.0
+Decatur,IL,Macon,34.3,56016.5833333333,22.1,25.0
+Elgin,IL,Kane,34.4,75465.6,33.1,24.975
+Evanston,IL,Cook,31.1,88262.375,38.8,25.0
+Joliet,IL,Will,34.8,53728.5384615384,34.3,25.0
+Naperville,IL,Dupage,30.1,124742.588235294,49.4,25.0
+Palatine,IL,Dupage,31.3,101739.0,49.4,25.0
+Peoria,IL,Peoria,33.7,50822.6666666666,30.6,25.0
+Rockford,IL,Winnebago,38.8,54458.64,22.9,25.025
+Schaumburg,IL,Dupage,31.7,96091.5714285714,49.4,25.0
+Springfield,IL,Sangamon,34.2,56501.5294117647,34.5,25.0
+Waukegan,IL,Lake,38.1,45949.2857142857,45.3,25.0
+Bloomington,IN,Monroe,33.0,59621.0833333333,45.7,25.0
+Carmel,IN,Marion,29.8,116447.4,30.9,25.0
+Evansville,IN,Vanderburgh,36.2,49594.0952380952,27.0,25.0
+Fishers,IN,Hamilton,31.3,97489.6666666666,59.3,25.0
+Fort Wayne,IN,Allen,32.8,60936.6451612903,28.5,25.0
+Gary,IN,Lake,48.1,40771.0,22.6,25.025
+Hammond,IN,Lake,41.2,51206.0,22.6,25.025
+Indianapolis,IN,Marion,36.4,54372.0357142857,30.9,25.0
+Lafayette,IN,Tippecanoe,34.3,57982.9,38.7,25.0
+Muncie,IN,Delaware,36.3,39664.6,23.7,24.975
+South Bend,IN,St. Joseph,40.4,53131.8181818181,29.6,25.0
+Cedar Rapids,IA,Linn,28.1,78246.5,33.1,24.975
+Davenport,IA,Scott,30.3,64303.4615384615,31.8,25.025
+Des Moines,IA,Polk,32.7,60983.9615384615,36.7,25.0
+Iowa City,IA,Johnson,27.1,60804.5,52.8,25.0
+Sioux City,IA,Dakota,28.9,61365.4545454545,,24.975
+Waterloo,IA,Black Hawk,29.9,57186.25,29.1,25.0
+Kansas City,KS,Wyandotte,37.0,45206.8095238095,18.1,24.975
+Lawrence,KS,Douglas,29.2,60211.0,49.6,25.025
+Olathe,KS,Johnson,27.6,91966.923076923,56.0,25.0
+Overland Park,KS,Johnson,25.7,107303.125,56.0,25.0
+Topeka,KS,Shawnee,32.5,65897.7647058823,30.9,25.0
+Wichita,KS,Sedgwick,35.5,58381.2954545454,30.9,25.0
+Lexington,KY,Fayette,39.3,64795.7666666666,43.6,25.0
+Louisville,KY,Jefferson,37.9,63227.9204545454,33.4,24.975
+Baton Rouge,LA,East Baton Rouge Parish,37.9,58993.1714285714,34.9,25.0
+Kenner,LA,St. Charles Parish,38.4,67074.5714285714,25.3,25.025
+Lafayette,LA,Lafayette Parish,37.2,64713.1818181818,33.0,25.0
+Lake Charles,LA,Calcasieu Parish,41.3,49340.1666666666,22.3,25.025
+New Orleans,LA,Orleans Parish,40.7,51234.303030303,37.6,25.0
+Shreveport,LA,Caddo Parish,38.1,51218.9166666666,23.5,25.0
+Portland,ME,Cumberland,31.5,65467.8571428571,47.6,24.975
+Baltimore,MD,Baltimore City,43.0,63442.964539007,31.9,24.975
+Boston,MA,Norfolk,35.5,79133.1176470588,53.6,25.0
+Brockton,MA,Norfolk,44.3,63129.2727272727,53.6,25.0
+Cambridge,MA,Suffolk,31.9,80046.0833333333,46.1,25.0
+Fall River,MA,Bristol,39.7,50888.5454545454,28.7,25.0
+Lawrence,MA,Essex,40.5,56096.1,39.9,25.0
+Lowell,MA,Middlesex,36.7,63353.0909090909,56.3,25.0
+Lynn,MA,Suffolk,39.7,64987.6,46.1,25.0
+New Bedford,MA,Bristol,40.3,46886.0,28.7,25.0
+Newton,MA,Norfolk,29.0,123219.0,53.6,25.0
+Quincy,MA,Suffolk,34.2,86048.2,46.1,25.0
+Somerville,MA,Suffolk,32.4,86481.0,46.1,25.0
+Springfield,MA,Hampden,38.9,51910.7058823529,27.1,25.0
+Worcester,MA,Worcester,38.2,59641.1,36.4,25.025
+Ann Arbor,MI,Washtenaw,31.1,111892.9375,55.9,24.975
+Dearborn,MI,Wayne,39.4,40497.3846153846,23.9,25.025
+Detroit,MI,Wayne,49.8,35734.8636363636,23.9,25.025
+Farmington Hills,MI,Oakland,33.2,88559.625,47.2,25.0
+Flint,MI,Genesee,48.7,36224.0416666666,21.2,25.0
+Grand Rapids,MI,Kent,36.1,62063.3235294117,35.7,25.0
+Kalamazoo,MI,Kalamazoo,38.3,49402.75,38.8,25.0
+Lansing,MI,Clinton,39.9,42040.3125,32.1,25.0
+Livonia,MI,Oakland,35.6,81551.909090909,47.2,25.0
+Rochester Hills,MI,Oakland,31.8,84666.7777777777,47.2,25.0
+Southfield,MI,Wayne,39.4,77278.6666666666,23.9,25.025
+Sterling Heights,MI,Macomb,37.2,64392.6153846153,24.9,25.025
+Troy,MI,Oakland,32.3,102044.0,47.2,25.0
+Warren,MI,Macomb,39.1,50617.0,24.9,25.025
+Westland,MI,Wayne,40.1,50166.625,23.9,25.025
+Wyoming,MI,Kent,36.0,55668.4,35.7,25.0
+Bloomington,MN,Hennepin,27.6,82525.1111111111,50.1,25.025
+Brooklyn Park,MN,Hennepin,32.3,76685.2857142857,50.1,25.025
+Duluth,MN,Douglas,32.3,62789.1666666666,26.0,25.025
+Minneapolis,MN,Ramsey,30.4,71931.6603773585,42.3,25.025
+Plymouth,MN,Hennepin,26.8,85525.0,50.1,25.025
+Rochester,MN,Olmsted,31.4,72102.9285714285,44.9,25.0
+St. Paul,MN,Ramsey,30.5,36494.0,42.3,25.025
+Gulfport,MS,Harrison,38.2,42748.3,23.1,25.0
+Jackson,MS,Hinds,40.5,46776.2272727272,29.0,25.0
+Columbia,MO,Boone,31.7,62679.3636363636,46.1,25.0
+Independence,MO,Jackson,36.3,57612.2,31.6,25.0
+Kansas City,MO,Wyandotte,38.4,53109.6379310344,,24.975
+Lee's Summit,MO,Jackson,33.9,87942.5714285714,31.6,25.0
+O'Fallon,MO,St. Charles,33.4,,38.9,25.025
+St. Joseph,MO,Buchanan,34.8,,21.1,24.975
+St. Louis,MO,St. Louis City,37.7,55297.4,36.3,24.975
+Springfield,MO,Greene,32.5,49691.05,30.5,25.025
+Billings,MT,Yellowstone,30.4,55707.9166666666,32.1,25.0
+Missoula,MT,Missoula,28.1,54189.3333333333,43.0,25.025
+Lincoln,NE,Lancaster,28.0,66463.88,39.5,24.975
+Omaha,NE,Douglas,31.7,60543.8253968254,39.7,25.0
+Henderson,NV,Clark,38.0,84789.8,24.5,25.0
+Las Vegas,NV,Clark,40.6,62934.2692307692,24.5,25.0
+North Las Vegas,NV,Clark,43.1,53911.0,24.5,25.0
+Reno,NV,Storey,33.5,65354.6666666666,31.4,25.025
+Sparks,NV,Storey,33.9,61020.0,31.4,25.025
+Manchester,NH,Hillsborough,36.0,68842.0909090909,38.1,25.0
+Nashua,NH,Middlesex,35.1,70124.4444444444,,25.0
+Camden,NJ,Philadelphia,49.8,38783.1111111111,,24.975
+Clifton,NJ,Bergen,36.7,81500.25,49.3,25.0
+Elizabeth,NJ,Union,44.0,59840.8181818181,36.0,24.975
+Jersey City,NJ,Hudson,43.6,77297.1304347826,42.3,25.0
+Newark,NJ,Hudson,49.4,40027.9285714285,42.3,25.0
+Passaic,NJ,Bergen,41.6,60790.6,49.3,25.0
+Paterson,NJ,Bergen,43.5,46017.1764705882,49.3,25.0
+Trenton,NJ,Mercer,45.7,56129.75,42.6,25.0
+Union City,NJ,New York,42.3,51290.25,,25.025
+Albuquerque,NM,Bernalillo,32.3,63773.3898305084,34.4,25.0
+Las Cruces,NM,DoÔøΩÔøΩA Ana,31.5,54668.0714285714,,25.0
+Rio Rancho,NM,Bernalillo,31.6,84943.0,34.4,25.0
+Santa Fe,NM,Santa Fe,27.1,67874.5714285714,41.0,25.0
+Albany,NY,Albany,37.7,56957.2142857142,41.8,24.975
+Buffalo,NY,Erie,42.4,44445.6046511628,34.4,25.0
+Mount Vernon,NY,Bronx,41.1,59655.2857142857,20.1,25.0
+New Rochelle,NY,Bronx,34.9,98464.5714285714,20.1,25.0
+New York,NY,Kings,39.8,88873.6275862069,37.5,25.0
+Rochester,NY,Monroe,39.7,57411.4237288135,38.6,25.0
+Schenectady,NY,Schenectady,40.9,71010.3333333333,32.1,25.0
+Syracuse,NY,Onondaga,39.7,52921.2083333333,35.9,25.0
+Yonkers,NY,Bronx,36.3,81780.4285714285,20.1,25.0
+Asheville,NC,Buncombe,30.1,60457.1,40.1,24.975
+Cary,NC,Wake,30.1,109838.142857142,52.8,25.0
+Charlotte,NC,Mecklenburg,33.4,69630.2923076923,45.4,25.0
+Concord,NC,Cabarrus,32.8,82786.6666666666,32.3,25.025
+Durham,NC,Durham,34.4,56300.3,48.2,24.975
+Fayetteville,NC,Cumberland,38.3,52299.1578947368,25.5,24.975
+Gastonia,NC,Gaston,37.3,50753.0909090909,21.2,25.0
+Greensboro,NC,Guilford,35.6,53407.074074074,36.0,25.0
+Greenville,NC,Pitt,37.9,47692.2222222222,32.7,25.0
+High Point,NC,Guilford,36.0,56975.5,36.0,25.0
+Jacksonville,NC,Onslow,37.0,55469.5,22.9,25.0
+Raleigh,NC,Wake,33.1,70615.6052631579,52.8,25.0
+Wilmington,NC,New Hanover,31.6,59131.4285714285,40.6,25.0
+Winston-Salem,NC,Forsyth,35.9,,34.0,25.0
+Fargo,ND,Clay,27.3,62195.25,,25.0
+Akron,OH,Summit,42.9,51568.1428571428,32.5,25.025
+Canton,OH,Stark,42.0,58607.1875,22.8,25.0
+Cincinnati,OH,Hamilton,42.6,63121.5882352941,37.9,25.0
+Cleveland,OH,Cuyahoga,42.5,37589.3235294117,32.5,25.0
+Columbus,OH,Franklin,39.1,49446.9066666666,40.0,25.0
+Dayton,OH,Montgomery,44.7,48861.5833333333,27.9,25.025
+Parma,OH,Cuyahoga,34.0,58719.4545454545,32.5,25.0
+Toledo,OH,Lucas,42.9,44954.7804878048,26.3,25.0
+Youngstown,OH,Mahoning,45.0,42814.5882352941,24.2,25.0
+Broken Arrow,OK,Tulsa,31.9,70263.7272727272,31.8,25.0
+Edmond,OK,Oklahoma,30.0,109995.666666666,32.0,25.0
+Lawton,OK,Comanche,34.8,42194.6,22.2,25.0
+Norman,OK,Cleveland,33.6,58510.5833333333,33.4,25.0
+Oklahoma City,OK,Oklahoma,34.3,50889.2272727272,32.0,25.0
+Tulsa,OK,Tulsa,33.9,56694.9545454545,31.8,25.0
+Beaverton,OR,Washington,31.3,77326.3571428571,44.4,24.975
+Bend,OR,Deschutes,29.7,64329.4285714285,35.4,25.0
+Eugene,OR,Lane,29.9,57379.0588235294,30.5,25.025
+Gresham,OR,Multnomah,32.4,57625.5,45.9,25.025
+Hillsboro,OR,Washington,32.1,80437.5,44.4,24.975
+Medford,OR,Jackson,33.7,51416.125,27.8,25.025
+Portland,OR,Multnomah,30.8,74163.734375,45.9,25.025
+Salem,OR,Polk,32.6,59294.6923076923,31.0,25.0
+Allentown,PA,Lehigh,39.0,50485.7142857142,29.9,24.975
+Bethlehem,PA,Northampton,37.1,69758.8333333333,30.3,25.0
+Erie,PA,Erie,42.0,49424.55,27.9,25.025
+Philadelphia,PA,Philadelphia,42.2,52394.2931034482,29.7,25.0
+Pittsburgh,PA,Allegheny,39.4,63196.0549450549,41.6,25.0
+Reading,PA,Berks,45.3,57724.8125,24.9,25.025
+Scranton,PA,Lackawanna,36.3,52570.7692307692,28.3,25.025
+Cranston,RI,Kent,37.8,64947.1111111111,33.3,25.0
+Pawtucket,RI,Providence,41.3,57382.1111111111,29.0,25.0
+Providence,RI,Providence,41.1,53309.1578947368,29.0,25.0
+Warwick,RI,Bristol,35.7,74073.7777777777,49.0,25.0
+Charleston,SC,Charleston,32.6,66367.75,43.6,24.975
+Columbia,SC,Richland,37.6,67323.4545454545,39.1,25.0
+Mount Pleasant,SC,Charleston,29.5,,43.6,24.975
+North Charleston,SC,Charleston,39.1,53573.8888888888,43.6,24.975
+Rock Hill,SC,York,40.8,58169.5,33.3,25.0
+Rapid City,SD,Pennington,26.4,64086.0,31.5,24.975
+Sioux Falls,SD,Minnehaha,27.2,67099.7333333333,33.1,25.0
+Chattanooga,TN,Hamilton,39.7,51403.238095238,32.2,25.0
+Clarksville,TN,Montgomery,41.7,57012.5,28.5,25.025
+Knoxville,TN,Knox,36.8,61573.34375,37.6,24.975
+Memphis,TN,Shelby,41.1,44200.484375,31.6,25.0
+Murfreesboro,TN,Rutherford,37.8,72714.4545454545,32.2,24.975
+Nashville,TN,Davidson,39.6,61077.9777777777,41.7,25.0
+Abilene,TX,Taylor,33.2,51258.923076923,25.2,25.0
+Allen,TX,Collin,33.3,108175.6,52.3,24.975
+Amarillo,TX,Potter,34.1,64852.76,14.9,25.0
+Arlington,TX,Tarrant,36.9,69631.2916666666,32.3,25.025
+Austin,TX,Travis,29.7,80293.5875,50.0,25.025
+Baytown,TX,Chambers,35.2,65114.6666666666,22.7,25.0
+Beaumont,TX,Jefferson,37.7,39811.2142857142,19.7,24.975
+Brownsville,TX,Cameron,35.0,40185.0,17.3,25.025
+Bryan,TX,Brazos,36.4,43242.0,41.7,25.0
+Carrollton,TX,Dallas,32.0,82515.3636363636,31.5,25.025
+College Station,TX,Brazos,33.4,47006.0,41.7,25.0
+Corpus Christi,TX,Nueces,33.9,65552.0,21.8,25.0
+Dallas,TX,Dallas,34.7,70597.3416666666,31.5,25.025
+Denton,TX,Denton,31.0,66395.2,45.1,25.0
+Edinburg,TX,Hidalgo,33.0,43737.5,18.7,25.0
+El Paso,TX,El Paso,36.7,53773.484375,23.3,25.0
+Fort Worth,TX,Tarrant,37.2,63485.1944444444,32.3,25.025
+Frisco,TX,Collin,31.5,128353.1,52.3,24.975
+Garland,TX,Rockwall,34.2,57019.65,40.7,25.0
+Grand Prairie,TX,Dallas,35.4,68954.4285714285,31.5,25.025
+Houston,TX,Harris,35.8,68297.5,31.5,25.0
+Irving,TX,Dallas,33.7,70008.2333333333,31.5,25.025
+Killeen,TX,Bell,39.9,46827.4545454545,25.2,25.025
+Laredo,TX,Webb,35.4,42403.5416666666,18.9,24.975
+League City,TX,Galveston,34.8,98822.3333333333,31.1,25.0
+Lewisville,TX,Denton,32.1,76346.7727272727,45.1,25.0
+Longview,TX,Gregg,35.2,50653.3333333333,21.3,25.0
+Lubbock,TX,Lubbock,35.0,55025.3181818181,30.1,24.975
+McAllen,TX,Hidalgo,32.5,,18.7,25.0
+McKinney,TX,Collin,33.5,,52.3,24.975
+Mesquite,TX,Dallas,34.6,57218.4166666666,31.5,25.025
+Midland,TX,Midland,32.5,87921.6923076923,27.4,25.0
+Mission,TX,Hidalgo,32.5,38123.0833333333,18.7,25.0
+Missouri City,TX,Fort Bend,35.4,94731.5,46.2,25.0
+Odessa,TX,Ector,32.8,70901.7692307692,15.4,24.975
+Pasadena,TX,Harris,34.5,51702.6153846153,31.5,25.0
+Pearland,TX,Harris,32.3,94416.75,31.5,25.0
+Pharr,TX,Hidalgo,34.2,41031.0,18.7,25.0
+Plano,TX,Dallas,32.6,92175.9583333333,31.5,25.025
+Richardson,TX,Dallas,30.7,84850.1111111111,31.5,25.025
+Round Rock,TX,Williamson,34.3,86318.2857142857,41.3,25.0
+San Angelo,TX,Tom Green,34.0,51970.6666666666,24.5,25.0
+San Antonio,TX,Bexar,35.0,61195.1185185185,28.0,25.0
+Sugar Land,TX,Fort Bend,32.1,117034.333333333,46.2,25.0
+Tyler,TX,Smith,35.0,44496.9,26.4,25.0
+Waco,TX,Mclennan,34.8,43830.5,24.2,24.975
+Wichita Falls,TX,Wichita,38.2,55137.3333333333,23.1,25.0
+Layton,UT,Weber,31.4,49216.0,24.5,25.025
+Ogden,UT,Weber,34.2,68991.2857142857,24.5,25.025
+Orem,UT,Utah,30.4,61226.5,40.8,25.0
+Provo,UT,Utah,30.9,48474.1,40.8,25.0
+St. George,UT,Washington,30.8,,28.1,25.0
+Salt Lake City,UT,Salt Lake,30.4,78847.5714285714,35.6,25.0
+Sandy,UT,Salt Lake,29.1,93644.7272727272,35.6,25.0
+West Jordan,UT,Salt Lake,31.4,77193.8571428571,35.6,25.0
+West Valley City,UT,Salt Lake,33.4,66441.2222222222,35.6,25.0
+Burlington,VT,Chittenden,28.6,56393.0,51.3,25.0
+Alexandria,VA,Alexandria City,31.9,108140.59375,63.1,25.0
+Chesapeake,VA,Chesapeake City,38.1,83186.25,33.2,25.0
+Hampton,VA,Hampton City,43.0,53259.3571428571,26.9,25.0
+Lynchburg,VA,Lynchburg City,36.4,56810.125,35.6,25.0
+Newport News,VA,Newport News City,38.1,50323.1764705882,26.3,25.0
+Norfolk,VA,Norfolk City,41.2,56312.9629629629,28.8,25.0
+Portsmouth,VA,Portsmouth City,44.8,48241.4545454545,21.9,25.0
+Richmond,VA,Richmond City,38.7,62566.0,39.6,25.0
+Roanoke,VA,Roanoke City,39.4,65699.1428571428,23.4,25.0
+Suffolk,VA,Suffolk City,41.4,57406.1,29.5,25.0
+Virginia Beach,VA,Virginia Beach City,37.5,77764.625,36.0,25.0
+Auburn,WA,Pierce,32.7,74413.5,27.2,25.025
+Bellevue,WA,King,28.5,120660.571428571,52.5,25.0
+Bellingham,WA,Whatcom,30.1,68421.1818181818,34.3,25.025
+Everett,WA,Snohomish,37.6,75919.909090909,32.8,25.0
+Federal Way,WA,Pierce,32.8,68748.5454545454,27.2,25.025
+Kennewick,WA,Benton,33.7,59119.0,30.9,24.975
+Kent,WA,Pierce,33.6,82880.6,27.2,25.025
+Renton,WA,King,32.2,83002.2307692307,52.5,25.0
+Seattle,WA,Kitsap,29.4,85278.7076923077,33.2,25.0
+Spokane,WA,Spokane,32.4,58531.9642857142,30.8,25.0
+Spokane Valley,WA,Spokane,31.8,56248.5714285714,30.8,25.0
+Tacoma,WA,Pierce,38.0,66359.9375,27.2,25.025
+Vancouver,WA,Multnomah,32.4,68988.4814814814,,25.025
+Yakima,WA,Yakima,33.3,51842.0,16.7,25.0
+Charleston,WV,Kanawha,39.6,67234.909090909,25.5,25.0
+Appleton,WI,Outagamie,29.8,70830.2727272727,29.7,25.025
+Green Bay,WI,Brown,35.9,67049.0,30.3,25.0
+Kenosha,WI,Kenosha,34.8,62266.0833333333,26.1,25.0
+Madison,WI,Dane,29.4,66489.625,51.4,25.025
+Milwaukee,WI,Waukesha,39.2,50052.5061728395,44.5,25.025
+Racine,WI,Racine,39.8,59588.923076923,25.2,25.0
+Waukesha,WI,Waukesha,33.4,79615.0,44.5,25.025
+Cheyenne,WY,Laramie,33.1,62977.0,28.5,25.0
